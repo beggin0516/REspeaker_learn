@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESDPSA0402V05"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESDPSA0402V05")
+        (spec "default")
+    )
+)

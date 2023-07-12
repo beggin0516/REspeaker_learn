@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XVF3000_TQ128_C'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "XMOS", "XVF3000-TQ128-C" (!) = "", "QFP40P1600X1600X120-129N", "Quad Flat Packages", "", "", "", "", "IC PROC 32BIT VOICE XCORE TQ128", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/730530.pdf", "1.2 mm"
+END_PART
+
+END.

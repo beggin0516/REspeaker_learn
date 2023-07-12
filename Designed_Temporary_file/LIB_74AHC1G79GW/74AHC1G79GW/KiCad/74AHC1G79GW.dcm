@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC1G79GW
+D NXP 74AHC1G79GW, Flip Flop IC, Single Ended, 2  5.5 V, 5-Pin TSSOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-301/11791.pdf
+$ENDCMP
+#
+#End Doc Library

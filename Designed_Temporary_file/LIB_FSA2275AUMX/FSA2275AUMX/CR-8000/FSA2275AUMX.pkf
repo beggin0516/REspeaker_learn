@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FSA2275AUMX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FSA2275AUMX")
+        (spec "default")
+    )
+)

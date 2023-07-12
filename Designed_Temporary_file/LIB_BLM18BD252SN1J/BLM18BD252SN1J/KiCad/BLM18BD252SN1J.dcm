@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM18BD252SN1J
+D BLM18_N1J Series EMI Suppression Filter 2500+/-25% at 100MHz 150mA @85
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+#End Doc Library

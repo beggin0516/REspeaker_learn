@@ -1,0 +1,9 @@
+Manufacturer=Cirrus Logic
+PartNumber=WM8960CGEFL/V
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2019-03-08 04:46:24
+Downloaded=2023-07-06 12:28:05
+3D=Y

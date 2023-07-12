@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESDPSA0402V05'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Good-Ark", "ESDPSA0402V05" (!) = "", "ESDPSA0402V05", "Other", "", "", "", "", "Polymer ESD Suppressor", "https://4donline.ihs.com/images/VipMasterIC/IC/GOAE/GOAE-S-A0000149384/GOAE-S-A0000149384-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0", "0.45 mm"
+END_PART
+
+END.

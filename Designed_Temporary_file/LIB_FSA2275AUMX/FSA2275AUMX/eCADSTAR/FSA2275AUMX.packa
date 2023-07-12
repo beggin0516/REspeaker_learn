@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FSA2275AUMX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-26-12:53:11)
+    (mountForm default
+        (footprintRef "FSA2275AUMX")
+        (spec "System")
+    )
+)

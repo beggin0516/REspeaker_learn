@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "WM8960CGEFL_V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-09-01-22:00:55)
+    (mountForm default
+        (footprintRef "QFN50P500X500X100-33N")
+        (spec "System")
+    )
+)

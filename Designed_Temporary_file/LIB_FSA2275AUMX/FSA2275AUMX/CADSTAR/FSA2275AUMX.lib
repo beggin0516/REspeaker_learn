@@ -1,0 +1,18 @@
+.FSA2275AUMX :1 ;ON Semiconductor FSA2275AUMX, Audio Switch IC DPDT, 3.3 V dc, 12-Pin UMLP
+FSA2275AUMX
+*STM IC
+*NGS
+*PLB 1="VDD" 2="C_EXT" 3="GND_1" 4="LSPKR" 5="RSPKR" 6="SEL" 7="MUTE" 8="GND_2" 9="R2" 10="R1" 11="L2" 12="L1"
+*MXP 12
+*DFN FSA2275AUMX
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (FSA2275AUMX)
+~!Mouser Part Number (512-FSA2275AUMX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/FSA2275AUMX?qs=Mv7BduZupUhxHdQdUdEuNg%3D%3D)
+~!Arrow Part Number (FSA2275AUMX)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/fsa2275aumx/on-semiconductor)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/FSA2275A-D.pdf)
+~!Height (0.6mm)
+~!3D_Model (FSA2275AUMX)
+FSA2275AUMX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "OXETGLJANF24MHZ"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "OXETGLJANF24MHZ")
+        (spec "default")
+    )
+)

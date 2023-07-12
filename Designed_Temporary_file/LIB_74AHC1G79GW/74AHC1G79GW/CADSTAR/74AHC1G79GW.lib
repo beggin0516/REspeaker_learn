@@ -1,0 +1,18 @@
+.74AHC1G79GW :1 ;NXP 74AHC1G79GW, Flip Flop IC, Single Ended, 2  5.5 V, 5-Pin TSSOP
+SOT65P212X110-5N
+*STM IC
+*NGS
+*PLB 1="D" 2="CP" 3="GND" 4="Q" 5="VCC"
+*MXP 5
+*DFN 74AHC1G79GW
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74AHC1G79GW)
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-301/11791.pdf)
+~!Height (1.1mm)
+~!3D_Model (74AHC1G79GW)
+"74AHC1G79GW"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

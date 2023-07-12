@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSA2275AUMX
+D ON Semiconductor FSA2275AUMX, Audio Switch IC DPDT, 3.3 V dc, 12-Pin UMLP
+K
+F https://www.onsemi.com/pub/Collateral/FSA2275A-D.pdf
+$ENDCMP
+#
+#End Doc Library

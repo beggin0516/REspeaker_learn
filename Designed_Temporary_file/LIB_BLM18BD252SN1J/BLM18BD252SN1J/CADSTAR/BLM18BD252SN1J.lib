@@ -1,0 +1,18 @@
+.BLM18BD252SN1J :1 ;BLM18_N1J Series EMI Suppression Filter 2500+/-25% at 100MHz 150mA @85
+BLM18EG121SH1D
+*STM FB
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN BLM18BD252SN1J
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (BLM18BD252SN1J)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb)
+~!Height (0.95mm)
+~!3D_Model (BLM18BD252SN1J)
+BLM18BD252SN1J
+1.1!U 2.1!U 

@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_4058970"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:17:57)
+    (utime 2023-03-07-11:17:57)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "BLM18BD252SN1J")
+)
+
+
+(pinAssign "ECS_4058970"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:17:57)
+    (utime 2023-03-07-11:17:57)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_4058970")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "BLM18BD252SN1J")
+)
+
+
+(part "BLM18BD252SN1J"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-11:17:57)
+    (utime 2023-03-07-11:17:57)
+    (packageRef "BLM18BD252SN1J")
+    (pinAssignRef "ECS_4058970")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "FB")
+    (property "description" "BLM18_N1J Series EMI Suppression Filter 2500+/-25% at 100MHz 150mA @85")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "BLM18BD252SN1J")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb")
+    (property "compAreaTopHeight" 0.95)
+)
+
+

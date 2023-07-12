@@ -1,0 +1,18 @@
+.WM8960CGEFL_V :1 ;Interface - CODECs Stereo CODEC with 1W DRIVER
+QFN50P500X500X100-33N
+*STM IC
+*NGS
+*PLB 1="MICBIAS" 2="LINPUT3/JD2" 3="LINPUT2" 4="LINPUT1" 5="RINPUT1" 6="RINPUT2" 7="RINPUT3/JD3" 8="DCVDD" 9="DGND" 10="DBVDD" 11="MCLK" 12="BCLK" 13="DACLRC" 14="DACDAT" 15="ADCLRC / GPIO1" 16="ADCDAT" 17="SCLK" 18="SDIN" 19="SPK_RN" 20="SPKGND2" 21="SPKVDD2" 22="SPK_RP" 23="SPK_LN" 24="SPKGND1" 25="SPK_LP" 26="SPKVDD1" 27="VMID" 28="AGND" 29="HP_R" 30="OUT3" 31="HP_L" 32="AVDD" 33="GND_PADDLE"
+*MXP 33
+*DFN WM8960CGEFL_V
+~!Manufacturer_Name (Cirrus Logic)
+~!Manufacturer_Part_Number (WM8960CGEFL/V)
+~!Mouser Part Number (238-WM8960CGEFL/V)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cirrus-Logic/WM8960CGEFL-V?qs=G8wrXCBxhFteielmzwPrEw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/WM8960CGEFL_V.pdf)
+~!Height (1mm)
+~!3D_Model (WM8960CGEFL_V)
+WM8960CGEFL_V
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

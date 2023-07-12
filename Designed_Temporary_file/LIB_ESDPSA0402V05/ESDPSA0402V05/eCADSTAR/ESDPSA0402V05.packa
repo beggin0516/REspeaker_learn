@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESDPSA0402V05"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-03-05:02:11)
+    (mountForm default
+        (footprintRef "ESDPSA0402V05")
+        (spec "System")
+    )
+)

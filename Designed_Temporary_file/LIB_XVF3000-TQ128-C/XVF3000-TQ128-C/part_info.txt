@@ -1,0 +1,9 @@
+Manufacturer=XMOS
+PartNumber=XVF3000-TQ128-C
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=129
+Version=2.1
+Released=2018-12-08 06:11:14
+Downloaded=2023-07-06 10:55:05
+3D=Y

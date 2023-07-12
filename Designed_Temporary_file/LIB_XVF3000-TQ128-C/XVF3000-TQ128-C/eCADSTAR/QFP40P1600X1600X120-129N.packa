@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "XVF3000-TQ128-C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "QFP40P1600X1600X120-129N")
+        (spec "System")
+    )
+)

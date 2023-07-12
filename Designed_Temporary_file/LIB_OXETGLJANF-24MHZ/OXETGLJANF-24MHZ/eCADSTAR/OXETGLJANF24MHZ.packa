@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "OXETGLJANF-24MHZ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-12-06:02:29)
+    (mountForm default
+        (footprintRef "OXETGLJANF24MHZ")
+        (spec "System")
+    )
+)

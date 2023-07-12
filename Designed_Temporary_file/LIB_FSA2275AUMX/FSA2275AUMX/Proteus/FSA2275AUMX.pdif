@@ -1,0 +1,172 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "FSA2275AUMX"
+   (description "ON Semiconductor FSA2275AUMX, Audio Switch IC DPDT, 3.3 V dc, 12-Pin UMLP")
+   (family "ANA")
+   (package "FSA2275AUMX")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pub/Collateral/FSA2275A-D.pdf")
+   (attribute "Geometry.Height" "0.6mm")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "FSA2275AUMX")
+   (attribute "Mouser Part Number" "512-FSA2275AUMX")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/FSA2275AUMX?qs=Mv7BduZupUhxHdQdUdEuNg%3D%3D")
+   (attribute "Arrow Part Number" "FSA2275AUMX")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/fsa2275aumx/on-semiconductor")
+   (gate
+    (symbol "FSA2275AUMX")
+    (pin "VDD" 1 PS)
+    (pin "C_EXT" 2 PS)
+    (pin "GND_1" 3 PS)
+    (pin "LSPKR" 4 PS)
+    (pin "RSPKR" 5 PS)
+    (pin "SEL" 6 PS)
+    (pin "MUTE" 7 PS)
+    (pin "GND_2" 8 PS)
+    (pin "R2" 9 PS)
+    (pin "R1" 10 PS)
+    (pin "L2" 11 PS)
+    (pin "L1" 12 PS)
+   )
+  )
+  (symbol "FSA2275AUMX"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 300) (pt 1000 300) (pt 1000 -600) (pt 200 -600) (pt 200 300) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -800) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 500) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 500) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 500) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 400 500) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "FSA2275AUMX"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.9 0.9)
+      (pt 0.9 0.9)
+      (pt 0.9 -0.9)
+      (pt -0.9 -0.9)
+      (pt -0.9 0.9))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.45 2.063)
+      (pt 2.05 2.063)
+      (pt 2.05 -2.063)
+      (pt -2.45 -2.063)
+      (pt -2.45 2.063))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.4 0.2)
+      (arc (pt -1.400 0.200) (pt -1.450 0.200) (pt -1.350 0.300) (start 180.0) (sweep -90.0))
+      (pt -1.4 0.3)
+      (arc (pt -1.400 0.300) (pt -1.450 0.200) (pt -1.350 0.300) (start 180.0) (sweep 90.0))
+      (pt -1.4 0.2))))
+   (leg 1 (pt -0.756 0.200) (padstack 1))
+   (leg 2 (pt -0.756 -0.200) (padstack 2))
+   (leg 3 (pt -0.600 -0.769) (padstack 0))
+   (leg 4 (pt -0.200 -0.769) (padstack 0))
+   (leg 5 (pt 0.200 -0.769) (padstack 0))
+   (leg 6 (pt 0.600 -0.769) (padstack 0))
+   (leg 7 (pt 0.756 -0.200) (padstack 7))
+   (leg 8 (pt 0.756 0.200) (padstack 8))
+   (leg 9 (pt 0.600 0.769) (padstack 0))
+   (leg 10 (pt 0.200 0.769) (padstack 0))
+   (leg 11 (pt -0.200 0.769) (padstack 0))
+   (leg 12 (pt -0.600 0.769) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.563 0 0 90.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.588 0 0 0.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.588 0 0 0.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.588 0 0 0.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.588 0 0 0.000))
+   )
+   (model "FSA2275AUMX.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

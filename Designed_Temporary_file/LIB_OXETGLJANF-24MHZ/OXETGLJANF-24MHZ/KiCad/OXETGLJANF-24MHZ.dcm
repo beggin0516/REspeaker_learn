@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OXETGLJANF-24MHZ
+D 3.3V~3.3V -40~+85 15mA +/-50ppm 24MHz SMD3225-4P Oscillators ROHS
+K
+F https://datasheet.lcsc.com/lcsc/1811052217_TAITIEN-Elec-OXETGLJANF-24MHZ_C295524.pdf
+$ENDCMP
+#
+#End Doc Library

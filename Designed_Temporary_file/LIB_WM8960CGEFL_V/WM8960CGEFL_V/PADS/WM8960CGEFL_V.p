@@ -1,0 +1,52 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+WM8960CGEFL_V QFN50P500X500X100-33N I ANA 9 1 0 0 0
+TIMESTAMP 2023.07.06.12.28.05
+"Manufacturer_Name" Cirrus Logic
+"Manufacturer_Part_Number" WM8960CGEFL/V
+"Mouser Part Number" 238-WM8960CGEFL/V
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Cirrus-Logic/WM8960CGEFL-V?qs=G8wrXCBxhFteielmzwPrEw%3D%3D
+"Arrow Part Number" 
+"Arrow Price/Stock" 
+"Description" Interface - CODECs Stereo CODEC with 1W DRIVER
+"Datasheet Link" https://componentsearchengine.com/Datasheets/1/WM8960CGEFL_V.pdf
+"Geometry.Height" 1mm
+GATE 1 33 0
+WM8960CGEFL_V
+1 0 U MICBIAS
+2 0 U LINPUT3/JD2
+3 0 U LINPUT2
+4 0 U LINPUT1
+5 0 U RINPUT1
+6 0 U RINPUT2
+7 0 U RINPUT3/JD3
+8 0 U DCVDD
+9 0 U DGND
+10 0 U DBVDD
+11 0 U MCLK
+12 0 U BCLK
+13 0 U DACLRC
+14 0 U DACDAT
+15 0 U ADCLRC_/_GPIO1
+16 0 U ADCDAT
+24 0 U SPKGND1
+23 0 U SPK_LN
+22 0 U SPK_RP
+21 0 U SPKVDD2
+20 0 U SPKGND2
+19 0 U SPK_RN
+18 0 U SDIN
+17 0 U SCLK
+33 0 U GND_PADDLE
+32 0 U AVDD
+31 0 U HP_L
+30 0 U OUT3
+29 0 U HP_R
+28 0 U AGND
+27 0 U VMID
+26 0 U SPKVDD1
+25 0 U SPK_LP
+
+*END*
+*REMARK* SamacSys ECAD Model
+254701/727024/2.50/33/3/Integrated Circuit

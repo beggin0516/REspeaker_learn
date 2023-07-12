@@ -1,0 +1,17 @@
+.ESDPSA0402V05 :1 ;Polymer ESD Suppressor
+ESDPSA0402V05
+*STM D
+*NGS
+*PLB 1="K1" 2="K2"
+*MXP 2
+*DFN ESDPSA0402V05
+~!Manufacturer_Name (Good-Ark)
+~!Manufacturer_Part_Number (ESDPSA0402V05)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://4donline.ihs.com/images/VipMasterIC/IC/GOAE/GOAE-S-A0000149384/GOAE-S-A0000149384-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0)
+~!Height (0.45mm)
+ESDPSA0402V05
+1.1!U 2.1!U 

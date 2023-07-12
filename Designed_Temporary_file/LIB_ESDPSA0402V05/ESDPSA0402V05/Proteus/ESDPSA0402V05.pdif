@@ -1,0 +1,108 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ESDPSA0402V05"
+   (description "Polymer ESD Suppressor")
+   (family "ANA")
+   (package "ESDPSA0402V05")
+   (attribute "Datasheet Link" "https://4donline.ihs.com/images/VipMasterIC/IC/GOAE/GOAE-S-A0000149384/GOAE-S-A0000149384-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0")
+   (attribute "Geometry.Height" "0.45mm")
+   (attribute "Manufacturer_Name" "Good-Ark")
+   (attribute "Manufacturer_Part_Number" "ESDPSA0402V05")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "ESDPSA0402V05")
+    (pin "K1" 1 PS)
+    (pin "K2" 2 PS)
+   )
+  )
+  (symbol "ESDPSA0402V05"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 200 -100) (pt 200 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 600 -100) (pt 600 100) (pt 400 0) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -180) (pt 400 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 440 200) (pt 400 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 -180) (pt 360 -200))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 20) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ESDPSA0402V05"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.525 0.275)
+      (pt 0.525 0.275)
+      (pt 0.525 -0.275)
+      (pt -0.525 -0.275)
+      (pt -0.525 0.275))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.7 1.325)
+      (pt 1.7 1.325)
+      (pt 1.7 -1.325)
+      (pt -1.7 -1.325)
+      (pt -1.7 1.325))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.2 0)
+      (arc (pt -1.200 0.000) (pt -1.200 -0.050) (pt -1.100 0.050) (start 180.0) (sweep 180.0))
+      (pt -1.1 0)
+      (arc (pt -1.100 0.000) (pt -1.200 -0.050) (pt -1.100 0.050) (start 180.0) (sweep .0))
+      (pt -1.2 0))))
+   (leg 1 (pt -0.450 0.000) (padstack 0))
+   (leg 2 (pt 0.450 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.500 0.650 0 0 90.000))
+   )
+  )
+ )
+)

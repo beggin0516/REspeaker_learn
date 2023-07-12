@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AP7333_18SAG_7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "AP7333-18SAG-7" (!) = "", "SOT96P240X135-3N", "SOT23 (3-Pin)", "621-AP7333-18SAG-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7333-18SAG-7?qs=vIZ3oKQCLxpEALu0NaomtQ%3D%3D", "AP7333-18SAG-7", "https://www.arrow.com/en/products/ap7333-18sag-7/diodes-incorporated?region=nac", "Diodes Inc AP7333-18SAG-7, Single Linear Voltage Regulator, 300mA 1.8 V, +/-2%, 3-Pin SOT-23", "https://www.diodes.com/assets/Datasheets/AP7333.pdf", "1.35 mm"
+END_PART
+
+END.

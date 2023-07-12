@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74AHC1G79GW'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74AHC1G79GW" (!) = "", "SOT65P212X110-5N", "SOT23 (5-Pin)", "N/A", "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA", "", "", "NXP 74AHC1G79GW, Flip Flop IC, Single Ended, 2  5.5 V, 5-Pin TSSOP", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-301/11791.pdf", "1.1 mm"
+END_PART
+
+END.

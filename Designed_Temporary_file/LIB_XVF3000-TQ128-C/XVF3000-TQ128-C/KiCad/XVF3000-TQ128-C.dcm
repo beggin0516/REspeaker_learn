@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XVF3000-TQ128-C
+D IC PROC 32BIT VOICE XCORE TQ128
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/730530.pdf
+$ENDCMP
+#
+#End Doc Library

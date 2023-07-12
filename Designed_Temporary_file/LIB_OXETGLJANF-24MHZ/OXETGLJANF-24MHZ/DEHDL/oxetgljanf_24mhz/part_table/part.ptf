@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OXETGLJANF_24MHZ'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TAITIEN", "OXETGLJANF-24MHZ" (!) = "", "OXETGLJANF24MHZ", "Other", "", "", "", "", "3.3V~3.3V -40~+85 15mA +/-50ppm 24MHz SMD3225-4P Oscillators ROHS", "https://datasheet.lcsc.com/lcsc/1811052217_TAITIEN-Elec-OXETGLJANF-24MHZ_C295524.pdf", "1.1 mm"
+END_PART
+
+END.
