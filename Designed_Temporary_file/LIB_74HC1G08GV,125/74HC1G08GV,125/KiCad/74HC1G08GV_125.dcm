@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC1G08GV,125
+D 74HC(T)1G08 - 2-input AND gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT1G08.pdf
+$ENDCMP
+#
+#End Doc Library

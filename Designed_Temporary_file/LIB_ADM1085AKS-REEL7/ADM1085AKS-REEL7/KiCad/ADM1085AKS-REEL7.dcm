@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM1085AKS-REEL7
+D IC SIMPLE SEQUENCER OD SC70-6
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM1085_1086_1087.pdf
+$ENDCMP
+#
+#End Doc Library

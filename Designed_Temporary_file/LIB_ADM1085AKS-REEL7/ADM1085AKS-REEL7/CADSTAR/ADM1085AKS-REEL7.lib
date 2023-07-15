@@ -1,0 +1,18 @@
+.ADM1085AKS-REEL7 :1 ;IC SIMPLE SEQUENCER OD SC70-6
+SOT65P210X110-6N
+*STM IC
+*NGS
+*PLB 1="ENIN" 2="GND" 3="VIN" 4="ENOUT" 5="CEXT" 6="VCC"
+*MXP 6
+*DFN ADM1085AKS-REEL7
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADM1085AKS-REEL7)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.analog.com/media/en/technical-documentation/data-sheets/ADM1085_1086_1087.pdf)
+~!Height (1.1mm)
+~!3D_Model (ADM1085AKS-REEL7)
+ADM1085AKS-REEL7
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 
